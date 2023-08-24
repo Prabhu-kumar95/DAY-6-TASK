@@ -1,4 +1,4 @@
-3)write a class to calculate the uber price.
+// 3)write a class to calculate the uber price.
 
 class uberprice {
 constructor(kmstravelled=0,priceperkms=0){

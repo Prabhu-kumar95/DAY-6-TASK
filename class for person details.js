@@ -1,4 +1,4 @@
-4)Write a “person” class to hold all the details.
+// 4)Write a “person” class to hold all the details.
 
 
 class person {

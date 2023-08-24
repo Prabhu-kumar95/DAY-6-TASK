@@ -29,8 +29,8 @@ class movie{
      }
      
      }
-      const movie1 = new movie('PS2','LYCA','');
-      console.log(movie1)
+      const movie2 = new movie('PS2','LYCA','');
+      console.log(movie2)
       
    //3.  Write a method getPG, which takes an array of base type Movie as its argument, and returns a new array of only those movies in the input array with a rating of "PG". You may assume the input array is full of Movie instances. The returned array need not be full.
    
@@ -71,6 +71,6 @@ class movie{
      }
      
      }
-      const movie1 = new movie('Casino Royale','Eon Production','PG13');
-      console.log(movie1)
+      const movie3 = new movie('Casino Royale','Eon Production','PG13');
+      console.log(movie3)
    
